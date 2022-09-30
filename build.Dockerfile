@@ -1,4 +1,4 @@
-FROM zeetdev/cli:0.7.4 as zeet-cli
+FROM zeetdev/cli:0.7.5 as zeet-cli
 
 FROM alpine:3.16
 
